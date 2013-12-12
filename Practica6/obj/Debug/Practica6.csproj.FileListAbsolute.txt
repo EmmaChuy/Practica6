@@ -1,0 +1,21 @@
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica6\Practica6\bin\Debug\Practica6.exe
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica6\Practica6\bin\Debug\Practica6.pdb
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica6\Practica6\obj\Debug\Practica6.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica6\Practica6\obj\Debug\Practica6.MainForm.resources
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica6\Practica6\obj\Debug\Practica6.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica6\Practica6\obj\Debug\Practica6.exe
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Practica6\Practica6\obj\Debug\Practica6.pdb
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\bin\Debug\Practica6.exe
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\bin\Debug\Practica6.pdb
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\obj\Debug\Practica6.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\obj\Debug\Practica6.MainForm.resources
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\obj\Debug\Practica6.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\obj\Debug\Practica6.exe
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\obj\Debug\Practica6.pdb
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\Practica6\bin\Debug\Practica6.exe
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\Practica6\bin\Debug\Practica6.pdb
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\Practica6\obj\Debug\Practica6.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\Practica6\obj\Debug\Practica6.MainForm.resources
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\Practica6\obj\Debug\Practica6.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\Practica6\obj\Debug\Practica6.exe
+C:\Users\Toshiba\Documents\GitHub\Practica6\Practica6\Practica6\obj\Debug\Practica6.pdb
